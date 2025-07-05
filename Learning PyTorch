@@ -22,16 +22,14 @@ Learning PyTorch can be an exciting journey into the world of deep learning and 
 2. Install PyTorch:
    - Visit the [official PyTorch website](https://pytorch.org/get-started/locally/) to get installation instructions tailored to your OS and preferred package manager.
    - Example command for pip:
-     ```bash
      pip install torch torchvision torchaudio
-     ```
-
+     
 3. Set Up Jupyter Notebook:
    - Install Jupyter Notebook for an interactive coding experience.
    - Command:
-     ```bash
+     
      pip install notebook
-     ```
+     
 
 #### Step 3: Learning PyTorch Basics
 1. PyTorch Tensors:
